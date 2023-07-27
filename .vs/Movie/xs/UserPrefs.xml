@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{AF403E96-92B3-4315-A882-58569F32AB5E}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Movie/appsettings.json">
+    <Files>
+      <File FileName="Movie/Controllers/HelloWorldController.cs" Line="1" Column="1" />
+      <File FileName="Movie/Views/HelloWorld/Index.cshtml" Line="8" Column="23" />
+      <File FileName="Movie/Models/Movie.cs" Line="16" Column="2" />
+      <File FileName="Movie/Program.cs" Line="4" Column="24" />
+      <File FileName="Movie/appsettings.json" Line="10" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Movie" expanded="True">
+            <Node name="Movie" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" selected="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="HelloWorld" expanded="True" />
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Movie PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
